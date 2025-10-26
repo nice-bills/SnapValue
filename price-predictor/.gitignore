@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+data/raw/
+models/
+*.pt
+*.pkl
+*.index
+*.ids
+*.log
+.DS_Store
+
