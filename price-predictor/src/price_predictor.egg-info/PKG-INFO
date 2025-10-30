@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: price-predictor
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: faiss-cpu>=1.12.0
+Requires-Dist: lightgbm>=4.6.0
+Requires-Dist: numpy>=2.3.4
+Requires-Dist: open-clip-torch>=3.2.0
+Requires-Dist: pandas>=2.3.3
+Requires-Dist: pillow>=12.0.0
+Requires-Dist: scikit-learn>=1.7.2
+Requires-Dist: sentence-transformers>=5.1.2
+Requires-Dist: torch>=2.9.0
+Requires-Dist: torchvision>=0.24.0

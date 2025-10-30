@@ -8,4 +8,8 @@ models/
 *.ids
 *.log
 .DS_Store
-
+images/
+src/price_prediction.egg-info/
+ebay_items_with_image_paths.csv
+ebay_items_with_text_embeddings.csv
+ebay_items_with_full_embeddings.csv

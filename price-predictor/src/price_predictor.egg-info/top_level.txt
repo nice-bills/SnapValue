@@ -1,0 +1,6 @@
+data_ingest
+embeddings
+faiss_index
+preprocess
+train
+utils
