@@ -7,12 +7,15 @@ requires-python = ">=3.12"
 dependencies = [
     "faiss-cpu>=1.12.0",
     "lightgbm>=4.6.0",
+    "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "open-clip-torch>=3.2.0",
     "pandas>=2.3.3",
     "pillow>=12.0.0",
     "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
     "sentence-transformers>=5.1.2",
     "torch>=2.9.0",
     "torchvision>=0.24.0",
+    "xgboost>=3.1.1",
 ]
